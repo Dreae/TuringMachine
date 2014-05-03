@@ -1,0 +1,11 @@
+0 _ _ * a
+a _ 1 r b
+a 1 1 l c
+b _ 1 r c
+b 1 1 r b
+c _ 1 r d
+c 1 _ l e
+d _ 1 l a
+d 1 1 l d
+e _ 1 r halt
+e 1 _ l a
